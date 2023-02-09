@@ -4,7 +4,6 @@
 - 🔭 Busco um emprego/estágio como Desenvolvedora Back-end
 - 🌱 Estudando C#
 - 💬 Nível avançado em Inglês
-- 😄 Pronomes: Ela/Dela
 
 <!--Dados do perfil -->
 <div align="center">
