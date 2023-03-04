@@ -41,7 +41,6 @@
   <!--Cobrinha do Commit-->
    ![Snake animation](https://github.com/yasminvic/yasminvic/blob/output/github-contribution-grid-snake.svg)
   
-  ##
 
 <!--Redes sociais-->
 ## Minhas Redes Sociais
