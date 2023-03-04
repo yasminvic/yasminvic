@@ -17,6 +17,7 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yasminvic&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+## Principais habilidades
 <!--Ícones das linguagens usadas -->
 <div style="display: inline_block"><br>
   <img align="center" alt="Yasmin-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
@@ -27,6 +28,15 @@
   <img align="center" alt="Yasmin-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Yasmin-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
+
+ ## Estudando atualmente
+ 
+ <div style="display: inline_block">
+ <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+ <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+ <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+  </div>
 
   <!--Cobrinha do Commit-->
    ![Snake animation](https://github.com/yasminvic/yasminvic/blob/output/github-contribution-grid-snake.svg)
