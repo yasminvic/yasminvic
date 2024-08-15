@@ -5,9 +5,7 @@
 
 ### Olá! Eu sou Yasmin Victóra 👋
 
-
-- 🔭 Busco um emprego/estágio como Desenvolvedora Back-end
-- 🌱 Estudando C#
+- 👩‍💻 Dev Junior C#
 - 💬 Nível avançado em Inglês
 
 <!--Dados do perfil -->
