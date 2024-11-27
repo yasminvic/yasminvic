@@ -30,8 +30,7 @@
  ## Estudando atualmente
  
  <div style="display: inline_block">
- <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
- <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+ <img src="https://img.shields.io/badge/Java-23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   </div>
 
   <!--Cobrinha do Commit-->
